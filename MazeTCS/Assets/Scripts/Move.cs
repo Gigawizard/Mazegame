@@ -7,7 +7,7 @@ public class Move : MonoBehaviour
     private Rigidbody rb;
     private float horizontalInput;
     private float verticalInput;
-    private float speed = 20.0f;
+    private float speed = 25.0f;
 
     // Start is called before the first frame update
     void Start()
